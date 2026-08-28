@@ -11,7 +11,7 @@ Breaking password hashes and cracking protected files for Ethical Hacking Lab. T
 ![Tool](https://img.shields.io/badge/Tool-Johnny%20GUI-brightgreen)
 ![Tool](https://img.shields.io/badge/Tool-NetworkWalks%20Hasher-brightgreen)
 ![Tool](https://img.shields.io/badge/Tool-NetworkWalks%20Password%20Cracker-brightgreen)
-![Tool](https://img.shields.io/badge/Tool-Kali-Linux-purple)
+
 ## 📌 Project Overview
 This lab focuses on offline password cracking techniques. We extracted hashes from protected files and used both CLI and GUI tools to perform dictionary and brute-force attacks.
 
@@ -35,7 +35,3 @@ All lab screenshots are in the `/screenshots` folder.
 - Dictionary attacks vs Brute force
 - Understanding password strength and salting
 - Using GUI vs CLI for the same task
-
-## 📚 Notes for VU Lab
-Week 3: Password Cracking Lab  
-Course: NetworkWalks B082
