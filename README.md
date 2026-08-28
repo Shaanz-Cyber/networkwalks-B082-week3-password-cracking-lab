@@ -1,9 +1,6 @@
-# networkwalks-B082-week3-password-cracking-lab
-
-
 # Networkwalks-B082-week3-password-cracking-lab
 
-Breaking password hashes and cracking protected files for Ethical Hacking Lab
+Breaking password hashes and cracking protected files for Ethical Hacking Lab. This lab was far more practical and fun out of all the labs. Password cracking was the thing that made me realize how easy it is to bypass passwords if they are not strong.
 
 ---
 
@@ -14,7 +11,7 @@ Breaking password hashes and cracking protected files for Ethical Hacking Lab
 ![Tool](https://img.shields.io/badge/Tool-Johnny%20GUI-brightgreen)
 ![Tool](https://img.shields.io/badge/Tool-NetworkWalks%20Hasher-brightgreen)
 ![Tool](https://img.shields.io/badge/Tool-NetworkWalks%20Password%20Cracker-brightgreen)
-
+![Tool](https://img.shields.io/badge/Tool-Kali-Linux-purple)
 ## 📌 Project Overview
 This lab focuses on offline password cracking techniques. We extracted hashes from protected files and used both CLI and GUI tools to perform dictionary and brute-force attacks.
 
